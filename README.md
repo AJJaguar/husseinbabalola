@@ -21,6 +21,6 @@ Languages & Frameworks
 - Dart · Flutter
 - Kotlin / Java (native Android)
 - Swift / SwiftUI (iOS)
-- Javascript . ReactNative
+- Javascript / ReactNative
 - Go, TypeScript
 - REST & GraphQL APIs
